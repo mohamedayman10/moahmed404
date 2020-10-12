@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>page</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
+</head>
+<body>
+
+    <div class="card">
+        <div class="imgBox">
+            <div class="image"></div>
+            <div class="details">
+                <h2>HTML AND CSS</h2>
+              كتاب Mohamed Ayman 
+              انا بارع في البرمج واصمم مواقع ويب 
+              انظر الي الشعار الذي بالسفل اضغت عليه ستجد صفحتي علي فيس بوك
+            </div>
+        </div>
+    </div>
+
+  <a href="https://www.facebook.com/mohamed2020ay" class="link-to-portfolio hover-target" target=”_blank”></a>
+  
+  
+</body>
+</html>
